@@ -13,6 +13,6 @@ Features in development:
 - Upcoming release times for subscribed kpop acts
 - Webhook subscriptions for Twitter, Weverse, YouTube and other subscribed to data streams from artists and labels
 - Reaction roles and moderation features
-- Logging features
+- Logging, anti-raid, verification, and small to large community safety features
  
 This bot is in beta, if you would like to contribute, open up an issue or Pull Request!
