@@ -11,6 +11,7 @@ Features in development:
 - Billboard, Gaon, and other music chart ranking into embeds
 - Updating show times for bands / acts
 - Upcoming release times for subscribed kpop acts
+- Browsable directory of birthdays and anniverseries, subscribe to events in advance
 - Webhook subscriptions for Twitter, Weverse, YouTube and other subscribed to data streams from artists and labels
 - Reaction roles and moderation features
 - Logging, anti-raid, verification, and small to large community safety features
